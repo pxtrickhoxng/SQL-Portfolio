@@ -32,8 +32,8 @@ Here are some of the SQL-based projects included in this portfolio:
 Each project has its own folder with:
 - **Overview**: A brief explanation of the dataset, objective, and copyright information.
 - **Queries**: All the queries I performed for the project chronologically. Each query will be separated with a brief sentence or two explaining what the query achieves and how it answers the question.
-- **Queried Data**: The visual results of the queries in .csv format.
-- **Reports**: Summary of the project, insights, and methodology. Reports will be available in two files: .docx and .pdf
+- **Queried Data**: The visual results of the queries in `.csv` format.
+- **Reports**: Summary of the project, insights, and methodology. Reports will be available in two files: `.docx` and `.pdf`
 Note: Each query, question, and visual result will be numbered sequentially. For example, query #1 will correspond to question #1, and visual result #1 will be linked to query #1.
 
 ## 📬 Connect With Me
