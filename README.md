@@ -30,7 +30,7 @@ Here are some of the SQL-based projects included in this portfolio:
 
 ## 📂 How to Use
 Each project has its own folder with:
-- **Overview**: A brief explanation of the dataset, objective, and citations.
+- **Overview**: A brief explanation of the dataset, objective, and copyright information.
 - **Queries**: All the queries I performed for the project in chronological order. Each query will be clearly separated with a brief sentence or two explaining what the query achieves.
 - **Queried Data**: The visual results of the queries in .csv format.
 - **Reports**: Summary of the project, insights, and methodology. Reports will be available in two files: .docx and .pdf
