@@ -1,0 +1,19 @@
+Dataset
+The dataset used in this project is focused on hypertension-related data. It includes variables such as:
+- **Age**
+- **Blood pressure readings**
+- **Cholesterol levels**
+- **Lifestyle factors**
+- **Country**
+
+...and other relevant factors.
+---------------------------------------------------------------------------
+
+Objective
+The primary objective of this project is to:
+- Analyze the dataset
+- Identify key risk factors for hypertension
+- Uncover variables that are less commonly associated with hypertension but may still contribute to its development
+
+The goal is to provide insights and uncover patterns that can be used to assess hypertension risk in individuals, potentially aiding healthcare professionals and organizations.
+
