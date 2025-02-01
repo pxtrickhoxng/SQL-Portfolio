@@ -1,29 +1,29 @@
-# Hypertension Risk Prediction Project Overview
-
-## Dataset
+Hypertension Risk Prediction Project Overview
+---------------------------------------------------------------------------
+Dataset
 The dataset used in this project is focused on hypertension-related data. It includes variables such as:
 - **Age**
 - **Blood pressure readings**
 - **Cholesterol levels**
 - **Lifestyle factors**
 - **Country**
-
-## Objective
+---------------------------------------------------------------------------
+Objective
 The primary objective of this project is to:
 - Analyze the dataset
 - Identify key risk factors for hypertension
 - Uncover variables that are less commonly associated with hypertension but may still contribute to its development
 
 The goal is to provide insights and uncover patterns that can be used to assess hypertension risk in individuals, potentially aiding healthcare professionals and organizations.
-
-## Copyright
+---------------------------------------------------------------------------
+Copyright
 The dataset is released under the MIT License. Below are the details:
 
-### Contributors
+Contributors
 - Copyright (c) 2013 Mark Otto
 - Copyright (c) 2017 Andrew Fong
 
-### License
+License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to:
 - Use
 - Copy
