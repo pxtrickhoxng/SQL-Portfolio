@@ -1,1 +1,41 @@
+# Hypertension Risk Prediction Project Overview
 
+## Dataset
+The dataset used in this project is focused on hypertension-related data. It includes variables such as:
+- **Age**
+- **Blood pressure readings**
+- **Cholesterol levels**
+- **Lifestyle factors**
+- **Country**
+
+## Objective
+The primary objective of this project is to:
+- Analyze the dataset
+- Identify key risk factors for hypertension
+- Uncover variables that are less commonly associated with hypertension but may still contribute to its development
+
+The goal is to provide insights and uncover patterns that can be used to assess hypertension risk in individuals, potentially aiding healthcare professionals and organizations.
+
+## Copyright
+The dataset is released under the MIT License. Below are the details:
+
+### Contributors
+- Copyright (c) 2013 Mark Otto
+- Copyright (c) 2017 Andrew Fong
+
+### License
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to:
+- Use
+- Copy
+- Modify
+- Merge
+- Publish
+- Distribute
+- Sublicense
+- Sell copies of the Software
+
+...and to permit others to whom the Software is provided to do so, subject to the following conditions:
+- The above copyright notice and permission notice must be included in all copies or substantial portions of the Software.
+
+### Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
