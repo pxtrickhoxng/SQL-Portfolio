@@ -1,18 +1,15 @@
 Dataset
-The dataset used in this project is focused on hypertension-related data. It includes variables such as:
-- **Age**
-- **Blood pressure readings**
-- **Cholesterol levels**
-- **Lifestyle factors**
-- **Country**
+The dataset used in this project is focused on video game-related data. It includes variables such as:
+- Genre
+- Rating
+- Release Date
+- Number of people who own the game
 
-...and other relevant factors.
+...and other relevant information.
 ---------------------------------------------------------------------------
-Objective
 The primary objective of this project is to:
-- Analyze the dataset
-- Identify key risk factors for hypertension
-- Uncover variables that are less commonly associated with hypertension but may still contribute to its development
+- Analyze the dataset to uncover trends in the video game industry
+- Identify key factors that influence a game's popularity and ownership
+- Explore how genre, rating, and release date impact game success
 
-The goal is to provide insights and uncover patterns that can be used to assess hypertension risk in individuals, potentially aiding healthcare professionals and organizations.
-
+The goal is to provide insights into player preferences and market trends, which could be valuable for game developers, publishers, and analysts.
