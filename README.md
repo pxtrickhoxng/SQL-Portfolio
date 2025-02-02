@@ -8,15 +8,19 @@ I'm an aspiring data professional with a focus on SQL for data analysis and inte
 ## 🔍 Projects
 Here are some of the SQL-based projects included in this portfolio:
 
-- **Hypertension Risk Prediction** – Analyzing a dataset of 174,982 patient records to identify risk factors for hypertension.
+- **Steam Games Analysis** – Analyzing a dataset of thousands of publishers and video games to provide insights into trends such as game popularity, genre performance, and factors influencing player engagement.
 - **[More soon!]** 
 
 ## 💡 Skills Demonstrated
+- **SQL Fundamentals**:
+  Writing `SELECT` statements to retrieve data from tables, understanding common MySQL data types such as `INT`, `VARCHAR`, `DATE`, `BOOLEAN`, etc., and using operators such as `=`, `>`, `<`, `LIKE`, `IN`, `BETWEEN` for conditionals.
+
 - **Data Cleaning & Transformation**:  
   Using MySQL functions like `TRIM()`, `REPLACE()`, `CAST()`, and `CONCAT()` for data preprocessing.
 
 - **Aggregations & Window Functions**:  
   Performing aggregations with `GROUP BY` and window functions such as `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()`
+  Utilizing aggregate functions such as `MIN`, `MAX`, `COUNT`, `SUM`, `AVG`
 
 - **Joins & Subqueries**:  
   Combining multiple datasets with `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, and `SELF JOIN`.  
@@ -31,8 +35,7 @@ Here are some of the SQL-based projects included in this portfolio:
 ## 📂 How to Use
 Each project has its own folder with:
 - **Overview**: A brief explanation of the dataset, objective, and copyright information.
-- **Queries**: All the queries I performed for the project chronologically. Each query will be separated with a brief sentence or two explaining what the query achieves and how it answers the question.
-               Additionally, the query outputs will be attached in `.csv` format.
+- **Queries**: All the queries I performed for the project chronologically. Each query will be separated with a brief sentence or two explaining what the query achieves and how it answers the question. Additionally, the query outputs will be attached in `.csv` format.
 - **Reports**: Summary of the project, insights, and methodology. Reports will be available in two files: `.docx` and `.pdf`
 Note: Each query, question, and visual result will be numbered sequentially. For example, query #1 will correspond to question #1, and visual result #1 will be linked to query #1.
 
