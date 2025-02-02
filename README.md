@@ -12,26 +12,20 @@ Here are some of the SQL-based projects included in this portfolio:
 - **[More soon!]** 
 
 ## 💡 Skills Demonstrated
-- **SQL Fundamentals**:
-  Writing `SELECT` statements to retrieve data from tables, understanding common MySQL data types such as `INT`, `VARCHAR`, `DATE`, `BOOLEAN`, etc.,
+- **SQL Fundamentals**: Writing `SELECT` statements to retrieve data from tables, understanding common MySQL data types such as `INT`, `VARCHAR`, `DATE`, `BOOLEAN`, etc.,
   and using operators such as `=`, `>`, `<`, `LIKE`, `IN`, `BETWEEN` for conditionals.
 
-- **Data Cleaning & Transformation**:  
-  Using MySQL functions like `TRIM()`, `REPLACE()`, `CAST()`, and `CONCAT()` for data preprocessing.
+- **Data Cleaning & Transformation**: Using MySQL functions like `TRIM()`, `REPLACE()`, `CAST()`, and `CONCAT()` for data preprocessing.
 
-- **Aggregations & Window Functions**:  
-  Performing aggregations with `GROUP BY` and window functions such as `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()`
+- **Aggregations & Window Functions**: Performing aggregations with `GROUP BY` and window functions such as `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()`
   Utilizing aggregate functions such as `MIN`, `MAX`, `COUNT`, `SUM`, `AVG`
 
-- **Joins & Subqueries**:  
-  Combining multiple datasets with `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, and `SELF JOIN`.  
+- **Joins & Subqueries**: Combining multiple datasets with `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, and `SELF JOIN`.
   Writing subqueries and Common Table Expressions (CTEs) for reusable and readable queries.
 
-- **Data Filtering & Sorting**:  
-  Using `WHERE`, `ORDER BY`, and `HAVING` for data filtering and sorting.
+- **Data Filtering & Sorting**:  Using `WHERE`, `ORDER BY`, and `HAVING` for data filtering and sorting.
 
-- **Data Manipulation**:  
-  Inserting, updating, and deleting data using `INSERT`, `UPDATE`, and `DELETE` statements.
+- **Data Manipulation**:  Inserting, updating, and deleting data using `INSERT`, `UPDATE`, and `DELETE` statements.
 
 ## 📂 How to Use
 Each project has its own folder with:
