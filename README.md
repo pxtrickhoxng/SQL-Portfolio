@@ -1,9 +1,9 @@
 # SQL Portfolio
 
-Welcome to my SQL portfolio! This repository showcases my SQL projects, highlighting my abilities to analyze and manipulate data across multiple sectors, including healthcare, business, and technology.
+Welcome to my SQL portfolio! This repository showcases my SQL projects, highlighting my abilities to analyze and manipulate data across multiple fields!
 
 ## 📌 About Me
-I'm an aspiring data professional with a focus on SQL for data analysis and interpretation. Though I'm still a total beginner in the data world, I’m extremely passionate about learning and expanding my skill set every day! My ultimate goal is to build a strong foundation that allows me to contribute meaningfully to organizations in their decision-making. 
+I'm an aspiring data professional with a focus on SQL for data analysis and interpretation. Though I'm still early in my journey, I’m highly passionate about learning and continually expanding my skill set. My goal is to build a solid foundation that enables me to contribute meaningfully to data-driven decision-making within organizations.
 
 ## 🔍 Projects
 Here are some of the SQL-based projects included in this portfolio:
