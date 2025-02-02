@@ -13,7 +13,8 @@ Here are some of the SQL-based projects included in this portfolio:
 
 ## 💡 Skills Demonstrated
 - **SQL Fundamentals**:
-  Writing `SELECT` statements to retrieve data from tables, understanding common MySQL data types such as `INT`, `VARCHAR`, `DATE`, `BOOLEAN`, etc., and using operators such as `=`, `>`, `<`, `LIKE`, `IN`, `BETWEEN` for conditionals.
+  Writing `SELECT` statements to retrieve data from tables, understanding common MySQL data types such as `INT`, `VARCHAR`, `DATE`, `BOOLEAN`, etc.,
+  and using operators such as `=`, `>`, `<`, `LIKE`, `IN`, `BETWEEN` for conditionals.
 
 - **Data Cleaning & Transformation**:  
   Using MySQL functions like `TRIM()`, `REPLACE()`, `CAST()`, and `CONCAT()` for data preprocessing.
