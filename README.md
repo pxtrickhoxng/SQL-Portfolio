@@ -32,7 +32,7 @@ Each project has its own folder with:
 - **Overview**: A brief explanation of the dataset, objective, and copyright information.
 - **Queries**: All the queries I performed for the project chronologically. Each query will be separated with a brief sentence or two explaining what the query achieves and how it answers the question. Additionally, the query outputs will be attached in `.csv` format.
 - **Reports**: Summary of the project, insights, and methodology. Reports will be available in two files: `.docx` and `.pdf`
-Note: Each query, question, and visual result will be numbered sequentially. For example, query #1 will correspond to question #1, and visual result #1 will be linked to query #1.
+Note: Each query, question, and output will be numbered sequentially. For example, query #1 will correspond to question #1, and output #1 will be linked to query #1.
 
 ## 📬 Connect With Me
 If you have any questions or would like to connect, feel free to reach out:
