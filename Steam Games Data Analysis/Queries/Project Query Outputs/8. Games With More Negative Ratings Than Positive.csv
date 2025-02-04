@@ -1,0 +1,68 @@
+genres,games_with_more_negative_ratings
+Strategy,28
+Simulation,21
+Action,16
+Action;Indie,16
+Casual,11
+Adventure,7
+Action;Adventure,7
+Indie;Strategy,6
+RPG,6
+Action;Simulation,6
+Simulation;Strategy,5
+Action;RPG,5
+Racing,4
+Action;Strategy,4
+RPG;Strategy,4
+Casual;Indie,4
+Indie;Simulation;Strategy,4
+Action;Indie;Strategy,3
+Action;Adventure;Indie,3
+Action;Indie;Simulation,3
+Adventure;Casual;Indie,3
+Strategy;Casual,2
+Action;Casual,2
+Casual;Strategy,2
+Indie;Casual,2
+Action;Adventure;Indie;RPG,2
+Indie,2
+Indie;RPG;Simulation;Strategy,2
+Casual;Simulation,2
+Casual;Strategy;Indie,1
+Action;Adventure;Casual,1
+Action;Indie;Casual,1
+Adventure;Indie,1
+Indie;Casual;Sports,1
+Casual;RPG,1
+Adventure;Casual,1
+Action;Casual;Indie,1
+Violent;Gore;Action;Adventure;Indie;RPG,1
+Action;RPG;Strategy,1
+"Free to Play;Massively Multiplayer",1
+RPG;Simulation,1
+RPG;Simulation;Strategy,1
+"Action;Free to Play;Indie;Racing",1
+Action;Adventure;Indie;RPG;Simulation,1
+"Casual;Indie;RPG;Simulation;Strategy;Early Access",1
+Sports;Strategy,1
+Strategy;Indie,1
+Racing;Sports,1
+Action;Adventure;Indie;Strategy,1
+Casual;Indie;Simulation,1
+"Action;Free to Play;Indie;RPG",1
+Indie;Simulation;Sports;Strategy,1
+Action;Adventure;Casual;Indie,1
+Action;Strategy;Indie,1
+Action;Simulation;Strategy,1
+Strategy;Indie;Casual;Simulation,1
+"Action;Indie;Early Access",1
+"Action;Indie;Massively Multiplayer;RPG;Simulation",1
+"Action;Indie;RPG;Early Access",1
+"Indie;Massively Multiplayer;Strategy",1
+"Free to Play;RPG",1
+"Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access",1
+"Action;Adventure;Free to Play;Simulation;Sports",1
+Indie;Simulation,1
+Indie;RPG;Strategy,1
+Racing;Simulation;Sports,1
+Action;Adventure;RPG,1
